@@ -26,5 +26,5 @@ Network simulation is performed to simulate the three types of sleeping cell ace
 | A2 RSRP/RSRQ hysteresis | 3/2 |
 
 # code reference
-The simulation experiments refer to the following code：
+The simulation experiments refer to the code：
 [NS3 lte examples](https://www.nsnam.org/doxygen/dir_fdce2e2b9e210571394585f89b3f8594.html)
